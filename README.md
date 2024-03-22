@@ -4,9 +4,7 @@
 
 ## Problem Statement
 
-The dashboard breaks down attrition by several factors including gender, education, age, years at company, salary, and job role. This data can be used to identify which groups of employees have the highest attrition rates. For example, the dashboard shows that employees with medical degrees have a much higher attrition rate (31.6%) than employees with technical degrees (5.6%).
-
-Further analysis is needed to determine why these trends are occuring. Is there something about the work experience at company that is leading medical professionals to leave? Are there other factors, such as compensation or work-life balance, that are contributing to attrition among this group?
+The Superstore is facing a competitive retail landscape and needs to optimize its sales strategy.  They have provided you with historical sales data encompassing factors like product category, region, shipping method, customer segment, and profit margin.  Your task is to create a data dashboard that helps identify key trends and answer critical questions
 
  
 # Report Snapshot (Power BI DESKTOP)
